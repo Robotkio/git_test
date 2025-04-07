@@ -1,1 +1,2 @@
 Just some random text for hello world.
+Here's some more text to practice commits now that I've change it so that I edit the message in VS Code rather than on the console?
